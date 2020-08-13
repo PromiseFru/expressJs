@@ -1,8 +1,8 @@
 {
     "dbConfig" : {
-        "host"     : "",
-        "user"     : "",
-        "password" : "",
-        "database" : ""
+        "host"     : "localhost",
+        "user"     : "root",
+        "password" : "Opennet@action2020",
+        "database" : "mydb"
     }
 }
